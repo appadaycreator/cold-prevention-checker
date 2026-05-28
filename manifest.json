@@ -3,7 +3,7 @@
   "short_name": "cold-prevent",
   "start_url": "/cold-prevention-checker/",
   "display": "standalone",
-  "background_color": "#6366f1",
+  "background_color": "#ffffff",
   "theme_color": "#7c3aed",
   "scope": "/cold-prevention-checker/"
 }
