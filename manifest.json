@@ -1,8 +1,9 @@
 {
   "name": "Cold Prevention Checker",
   "short_name": "cold-prevent",
-  "start_url": "/",
+  "start_url": "/cold-prevention-checker/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/cold-prevention-checker/"
 }
